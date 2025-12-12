@@ -1,0 +1,4 @@
+handle,password,access_level
+admin,admin123,Owner
+analyst,analyst123,Analyst
+viewer,viewer123,ReadOnly

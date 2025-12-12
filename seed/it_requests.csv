@@ -1,0 +1,6 @@
+req_key,topic,urgency,phase,opened_at,closed_at,assignee
+REQ-3001,Account Access,Low,Closed,2025-11-25,2025-11-25,DeskA
+REQ-3002,WiFi Coverage,Medium,In Progress,2025-11-27,,DeskB
+REQ-3003,Device Repair,High,Open,2025-11-29,,TechA
+REQ-3004,Software Setup,Low,Resolved,2025-12-02,2025-12-03,TechB
+REQ-3005,Email Outage,Critical,Closed,2025-12-05,2025-12-05,InfraA

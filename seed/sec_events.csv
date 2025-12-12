@@ -1,0 +1,6 @@
+event_key,event_kind,impact,state,raised_at,cleared_at,owner,notes
+SEC-901,Phishing,High,Open,2025-11-28,,Mina,Mailbox reports increased suspicious attachments
+SEC-902,Malware,Critical,In Progress,2025-11-29,,Ravi,Endpoint quarantined and under investigation
+SEC-903,Brute Force,Medium,Resolved,2025-11-30,2025-12-01,Noah,IP range blocked after repeated failures
+SEC-904,DDoS,High,Closed,2025-12-02,2025-12-02,Asha,Rate limit and WAF rules applied
+SEC-905,Policy Violation,Low,Open,2025-12-04,,Tariq,Public share link discovered on internal file
