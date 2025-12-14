@@ -1,0 +1,5 @@
+1. Create a .env file with the following for the AI assistant to work:
+OPENROUTER_API_KEY=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
+2. Install dependencies: pip install -r requirements.txt
+3. Seed data by running: python -m core.bootstrap 
+4. Run Streamlit: streamlit run command_center.py
